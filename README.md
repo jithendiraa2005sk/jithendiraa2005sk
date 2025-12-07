@@ -15,8 +15,6 @@
 ---
 
 ## 🛠️ Tech Stack
-**Excel • Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL • Power BI • Java • Spring Boot • Git • GitHub • VS Code • Jupyter Notebook**
-## 🛠️ Tech Stack
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
