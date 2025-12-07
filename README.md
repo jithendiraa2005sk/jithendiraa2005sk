@@ -32,7 +32,9 @@
 ---
 
 ## 🌐 Socials
-[LinkedIn](https://www.linkedin.com/in/jithendiraa-s-491803252/) • [Email](jithendiraa2005sk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jithendiraa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithendiraa-s-491803252/)
+[![Email](https://img.shields.io/badge/Email-jithendiraa2005sk@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jithendiraa2005sk@gmail.com)
+
 
 ---
 
