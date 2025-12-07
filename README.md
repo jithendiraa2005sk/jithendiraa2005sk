@@ -32,8 +32,8 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/%20-?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithendiraa-s-491803252/)
-[![Email](https://img.shields.io/badge/%20-?style=flat-square&logo=gmail&logoColor=white)](mailto:jithendiraa2005sk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithendiraa-s-491803252/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jithendiraa2005sk@gmail.com)
 
 
 ---
