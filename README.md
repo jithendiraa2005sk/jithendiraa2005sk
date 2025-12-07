@@ -26,7 +26,7 @@
 ---
 
 ## 🌐 Socials
-[LinkedIn](#) • [Email](#)
+[LinkedIn](https://www.linkedin.com/in/jithendiraa-s-491803252/) • [Email](jithendiraa2005jsk@gmail.com)
 
 ---
 
@@ -44,10 +44,8 @@
 - Java  
 - Spring Boot  
 
-### **Developer Tools**
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook  
+### **Developer Tools** 
+- VS Code
 
 ---
 
