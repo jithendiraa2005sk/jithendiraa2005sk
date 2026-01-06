@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - Skilled in **Excel, Python, SQL**
-- Building UI using **HTML, CSS, React JS**
+- Building UI using **HTML, CSS**
 - Learning **Power BI** for data visualization  
 - Exploring **Java & Spring Boot** for backend development  
 - Interested in **Data Analytics, Full Stack Development, Automation, AI, ML, and Problem-solving**
