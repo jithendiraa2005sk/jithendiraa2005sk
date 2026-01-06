@@ -1,16 +1,17 @@
 # 👋 Hi there, I'm **Jithendiraa Senthilkumar**!
 
-## 💫 Aspiring Data Analyst | Python • SQL • Excel  
+## 💫 Aspiring Data Analyst & Full Stack Developer | Python • SQL • Excel | AI/ML Enthusiast  
 🎓 B.Tech IT | Sri Krishna College of Engineering and Technology  
-📊 Passionate about extracting meaningful insights from data and building analytical solutions.
+📊 Passionate about extracting meaningful insights from data and building analytical solutions. Also diving into Full Stack Development and AI/ML.
 
 ---
 
 ## 🚀 About Me
-- Skilled in **Excel, Python, SQL**  
+- Skilled in **Excel, Python, SQL**
+- Building UI using **HTML, CSS, React JS**
 - Learning **Power BI** for data visualization  
 - Exploring **Java & Spring Boot** for backend development  
-- Interested in **data analytics, automation, and problem-solving**
+- Interested in **Data Analytics, Full Stack Development, Automation, AI, ML, and Problem-solving**
 
 ---
 
@@ -21,11 +22,16 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
+[![React](https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 <p align="center">
