@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm **Jithendiraa Senthilkumar**!
 
-## 💫 Aspiring Data Analyst & Full Stack Developer | Python • SQL • Excel | AI/ML Enthusiast  
+## 💫 Aspiring Data Analyst & Full Stack Developer | Python • SQL • Excel
 🎓 B.Tech IT | Sri Krishna College of Engineering and Technology  
-📊 Passionate about extracting meaningful insights from data and building analytical solutions. Also diving into Full Stack Development and AI/ML.
+📊 Passionate about extracting meaningful insights from data and building analytical solutions. Also diving into Full Stack Development.
 
 ---
 
@@ -11,7 +11,7 @@
 - Building UI using **HTML, CSS, React JS**
 - Learning **Power BI** for data visualization  
 - Exploring **Java & Spring Boot** for backend development  
-- Interested in **Data Analytics, Full Stack Development, Automation, AI, ML, and Problem-solving**
+- Interested in **Data Analytics, Full Stack Development**
 
 ---
 
