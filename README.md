@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Jithendiraa Senthilkumar**!
 
-## 💫 Aspiring Data Analyst | Python • SQL • Excel
+## 💫 Aspiring Data Analyst | Python • SQL • Excel • Power BI
 🎓 B.Tech IT | Sri Krishna College of Engineering and Technology  
 📊 Passionate about extracting meaningful insights from data and building analytical solutions.
 
